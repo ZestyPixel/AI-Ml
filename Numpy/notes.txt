@@ -1,0 +1,7 @@
+Numpy is a powerful library in Python used for numerical computing. 
+It provides support for arrays, matrices, and a wide range of mathematical functions to operate on these data structures efficiently.
+It uses contiguous memory allocation(C-style arrays) which allows for faster computations compared to standard Python lists.
+It uses C under the hood for performance optimization.
+
+Python in comparison can be slower for numerical computations due to its interpreted nature and dynamic typing.
+This is why many packages are implemented in C to speed up performance.
